@@ -1,4 +1,4 @@
-baseURL = "https://andrewcohen.github.io/blog"
+baseURL = "https://peaceful-wilson-e19bef.netlify.app/"
 languageCode = "en-us"
 title = "Andrew Cohen"
 theme = "noteworthy"
